@@ -1,0 +1,22 @@
+===== Question 1 =====
+B
+E
+===== Question 2 =====
+ABBCDEE
+ABBCEDE
+ABBDECE
+ABBDCEE
+ABCEBDE
+ABCBDEE
+ABCBEDE
+ABDEBCE
+ABDBECE
+ABDBCEE
+Total orderings = 10
+===== Question 3 =====
+16
+===== Question 4 =====
+055 -> 059
+055 -> 057 -> 061
+055 -> 056 -> 062
+055 -> 056 -> 058 -> 064
