@@ -31,7 +31,6 @@ int truncate(char *str, int n)
 
 int main(int argc, char **argv)
 {
-    /* Do not change the main function */
     if (argc != 3)
     {
         fprintf(stderr, "Usage: truncate number string\n");

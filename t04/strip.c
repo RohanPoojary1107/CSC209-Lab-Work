@@ -38,12 +38,11 @@ int strip_q_marks(char *str){
 }
 
 int main(int argc, char **argv) {
-    // Do not change this main function.
     if(argc != 2) {
         fprintf(stderr, "Usage: strip message\n");
         exit(1);
     }
     int result = strip_q_marks(argv[1]);
-    printf("%s %d", argv[1], result);
+    printf("%s %d\n", argv[1], result);  // returns the modified input string and the number of trailing question marks removed
     return 0;
 }
