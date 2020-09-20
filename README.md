@@ -1,4 +1,4 @@
-# CSC209-Lab-Work
+# CSC209-Lab-Work :computer:
 All of my lab work from CSC209H: Software Tools and Systems Programming
 # About
 
@@ -15,3 +15,7 @@ All of my lab work from CSC209H: Software Tools and Systems Programming
 | t09  | Signals |
 | t10  | Sockets  |
 | t11  | Select  |
+
+# Requirements
+- A C compiler: I have used GCC which can be downloaded [here](https://gcc.gnu.org).
+- [Optional] An IDE: I have used Visual Studio Code (Download [here](https://code.visualstudio.com/Download)) with the C/C++ Extension by Microsoft.
